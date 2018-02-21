@@ -1,0 +1,23 @@
+{
+  "name": "x3places",
+  "version": "1.0.0",
+  "description": "bot creado con el api de facebook para la spa x3Places",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visidevi/x3Place.git"
+  },
+  "author": "nadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visidevi/x3Place/issues"
+  },
+  "homepage": "https://github.com/visidevi/x3Place#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
